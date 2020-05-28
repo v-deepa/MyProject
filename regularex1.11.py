@@ -1,4 +1,5 @@
 import re
+#open the file mbox1.txt
 fhandle=open("mbox1.txt")
 count=0
 numlist=list()
